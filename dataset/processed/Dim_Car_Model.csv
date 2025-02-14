@@ -1,0 +1,559 @@
+car_model_id,car_model
+1,acura mdx
+2,acura zdx
+3,acura rdx
+4,audi q5
+5,audi a6
+6,audi a4
+7,audi q7
+8,audi a5
+9,audi a8
+10,audi 80
+11,audi a1
+12,audi a3
+13,audi a7
+14,audi q3
+15,audi Q8
+16,audi tt
+17,bmw 3 series
+18,bmw 5 series
+19,bmw 7 series
+20,bmw x5
+21,bmw x6
+22,bmw x3
+23,bmw 1 series
+24,bmw 2 series
+25,bmw 4 series
+26,bmw 6 series
+27,bmw i8
+28,bmw m6
+29,bmw x1
+30,bmw x2
+31,bmw x4
+32,bmw x7
+33,bmw z4
+34,bmw khac
+35,chevrolet spark
+36,chevrolet cruze
+37,chevrolet captiva
+38,chevrolet colorado
+39,chevrolet aveo
+40,chevrolet orlando
+41,chevrolet trailblazer
+42,chevrolet lacetti
+43,chevrolet vivant
+44,chevrolet trax
+45,chevrolet camaro
+46,chevrolet corvette
+47,chevrolet express
+48,chevrolet lumina
+49,chevrolet khac
+50,daewoo lacetti
+51,daewoo matiz
+52,daewoo gentra
+53,daewoo lanos
+54,daewoo nubira
+55,daewoo magnus
+56,daewoo cielo
+57,daewoo leganza
+58,daewoo espero
+59,daewoo chairman
+60,daewoo damas
+61,daewoo gentrax
+62,daewoo labo
+63,daewoo novus
+64,daewoo racer
+65,daewoo super saloon
+66,daewoo khac
+67,daihatsu applause
+68,daihatsu charade
+69,daihatsu citivan
+70,daihatsu compagno
+71,daihatsu fellow max
+72,daihatsu feroza
+73,daihatsu hijet
+74,daihatsu terios
+75,fiat siena
+76,fiat albea
+77,fiat doblo
+78,fiat 500
+79,fiat bravo
+80,fiat tempra
+81,ford ranger
+82,ford everest
+83,ford transit
+84,ford ecosport
+85,ford focus
+86,ford escape
+87,ford explorer
+88,ford fiesta
+89,ford laser
+90,ford mondeo
+91,ford tourneo
+92,ford f150
+93,ford bronco
+94,ford crown victoria
+95,ford e450
+96,ford f450
+97,ford flex
+98,ford imax
+99,ford mustang
+100,ford taurus
+101,ford tempo
+102,ford windstar
+103,ford khac
+104,honda city
+105,honda crv
+106,honda civic
+107,honda accord
+108,honda jazz
+109,honda brio
+110,honda hrv
+111,honda odyssey
+112,honda legend
+113,honda khac
+114,hyundai i10
+115,hyundai santafe
+116,hyundai accent
+117,hyundai elantra
+118,hyundai tucson
+119,hyundai getz
+120,hyundai kona
+121,hyundai porter
+122,hyundai county
+123,hyundai grand starex
+124,hyundai avante
+125,hyundai sonata
+126,hyundai azera
+127,hyundai click
+128,hyundai creta
+129,hyundai emighty
+130,hyundai equus
+131,hyundai excel
+132,hyundai galloper
+133,hyundai genesis
+134,hyundai grandeur
+135,hyundai h 1
+136,hyundai h 100
+137,hyundai hd
+138,hyundai i20
+139,hyundai i30
+140,hyundai libero
+141,hyundai matrix
+142,hyundai mighty
+143,hyundai solati
+144,hyundai starex
+145,hyundai terracan
+146,hyundai tuscani
+147,hyundai universe
+148,hyundai universe xpress luxury
+149,hyundai veloster
+150,hyundai veracruz
+151,hyundai verna
+152,hyundai xg
+153,hyundai khac
+154,isuzu mu x
+155,isuzu dmax
+156,isuzu hi lander
+157,isuzu qkr
+158,isuzu trooper
+159,isuzu nqr
+160,isuzu fvr
+161,isuzu mu
+162,isuzu nlr
+163,isuzu nmr
+164,isuzu npr
+165,isuzu khac
+166,kia morning
+167,kia cerato
+168,kia sorento
+169,kia sedona
+170,kia carens
+171,kia rio
+172,kia forte
+173,kia k3
+174,kia rondo
+175,kia soluto
+176,kia optima
+177,kia frontier
+178,kia bongo
+179,kia carnival
+180,kia k2700
+181,kia k3000s
+182,kia k5
+183,kia k7
+184,kia picanto
+185,kia pregio
+186,kia pride
+187,kia quoris
+188,kia retona
+189,kia seltos
+190,kia soul
+191,kia spectra
+192,kia sportage
+193,kia visto
+194,kia khac
+195,landrover defender
+196,landrover discovery
+197,landrover discovery sport
+198,landrover freelander
+199,landrover range rover
+200,landrover range rover evoque
+201,landrover range rover sport
+202,landrover range rover velar
+203,lexus rx
+204,lexus lx
+205,lexus gx
+206,lexus es
+207,lexus gs
+208,lexus hs
+209,lexus is
+210,lexus lm
+211,lexus ls
+212,lexus nx
+213,lexus sc
+214,mazda 3
+215,mazda cx5
+216,mazda 6
+217,mazda 2
+218,mazda bt50
+219,mazda cx8
+220,mazda 323
+221,mazda 626
+222,mazda premacy
+223,mazda 929
+224,mazda cx9
+225,mazda rx 8
+226,mazda khac
+227,mercedes benz c class
+228,mercedes benz e class
+229,mercedes benz glc
+230,mercedes benz s class
+231,mercedes benz sprinter
+232,mercedes benz gl
+233,mercedes benz glk class
+234,mercedes benz cla class
+235,mercedes benz gla class
+236,mercedes benz a class
+237,mercedes benz amg gt
+238,mercedes benz b class
+239,mercedes benz clk class
+240,mercedes benz cls class
+241,mercedes benz g class
+242,mercedes benz gle class
+243,mercedes benz gls
+244,mercedes benz maybach
+245,mercedes benz mb
+246,mercedes benz ml class
+247,mercedes benz r class
+248,mercedes benz sl class
+249,mercedes benz slk class
+250,mercedes benz v class
+251,mercedes benz vito
+252,mercedes benz khac
+253,mitsubishi xpander
+254,mitsubishi triton
+255,mitsubishi outlander
+256,mitsubishi jolie
+257,mitsubishi attrage
+258,mitsubishi pajero sport
+259,mitsubishi pajero
+260,mitsubishi grandis
+261,mitsubishi mirage
+262,mitsubishi lancer
+263,mitsubishi zinger
+264,mitsubishi canter
+265,mitsubishi chariot
+266,mitsubishi eclipse
+267,mitsubishi galant
+268,mitsubishi l300
+269,mitsubishi outlander sport
+270,mitsubishi khac
+271,nissan navara
+272,nissan sunny
+273,nissan x trail
+274,nissan terra
+275,nissan teana
+276,nissan grand livina
+277,nissan bluebird
+278,nissan qashqai
+279,nissan quest
+280,nissan murano
+281,nissan terrano
+282,nissan tiida
+283,nissan 370z
+284,nissan armada
+285,nissan cedric
+286,nissan cefiro
+287,nissan juke
+288,nissan maxima
+289,nissan patrol
+290,nissan pick up
+291,nissan pixo
+292,nissan presea
+293,nissan stanza
+294,nissan khac
+295,peugeot 3008
+296,peugeot 5008
+297,peugeot traveller
+298,peugeot 508
+299,peugeot 208
+300,peugeot 408
+301,peugeot 107
+302,peugeot 404
+303,peugeot 405
+304,peugeot 505
+305,peugeot 605
+306,porsche cayenne
+307,porsche macan
+308,porsche panamera
+309,porsche 911
+310,porsche boxster
+311,renault duster
+312,renault koleos
+313,renault khac
+314,suzuki swift
+315,suzuki super carry van
+316,suzuki ertiga
+317,suzuki super carry truck
+318,suzuki carry
+319,suzuki vitara
+320,suzuki alto
+321,suzuki apv
+322,suzuki celerio
+323,suzuki ciaz
+324,suzuki grand vitara
+325,suzuki wagon r+
+326,suzuki xl7
+327,suzuki khac
+328,toyota innova
+329,toyota vios
+330,toyota fortuner
+331,toyota camry
+332,toyota corolla altis
+333,toyota yaris
+334,toyota land cruiser
+335,toyota prado
+336,toyota zace
+337,toyota hilux
+338,toyota hiace
+339,toyota wigo
+340,toyota corolla
+341,toyota rush
+342,toyota 4 runner
+343,toyota 86
+344,toyota alphard
+345,toyota aurion
+346,toyota avalon
+347,toyota avanza
+348,toyota aygo
+349,toyota carina
+350,toyota celica
+351,toyota corolla cross
+352,toyota corolla verso
+353,toyota corona
+354,toyota cressida
+355,toyota crown
+356,toyota fj cruiser
+357,toyota granvia
+358,toyota highlander
+359,toyota matrix
+360,toyota previa
+361,toyota prius
+362,toyota rav4
+363,toyota sienna
+364,toyota solara
+365,toyota van
+366,toyota venza
+367,toyota windom
+368,toyota wish
+369,toyota xa
+370,toyota khac
+371,vinfast fadil
+372,vinfast lux a 2.0
+373,volkswagen tiguan
+374,volkswagen passat
+375,volkswagen polo
+376,volkswagen scirocco
+377,volkswagen beetle
+378,volkswagen touareg
+379,volkswagen eos
+380,volkswagen new beetle
+381,alfa romeo
+382,alfa romeo 159
+383,asia
+384,asia khac
+385,baic
+386,baic q7
+387,baic x65
+388,bentley
+389,bentley bentayga
+390,bentley continental
+391,bentley flying spur
+392,bentley mulsanne
+393,brilliance
+394,brilliance v7
+395,byd
+396,byd f0
+397,cadillac
+398,cadillac escalade
+399,cadillac srx
+400,cadillac cts
+401,cadillac ats
+402,cadillac sts
+403,chery
+404,chery qq3
+405,chrysler
+406,chrysler 300c
+407,chrysler lebaron
+408,chrysler town country
+409,dodge
+410,dodge caravan
+411,dodge neon
+412,dongfeng
+413,dongfeng joyear t5
+414,dongfeng lingzhi m3
+415,ferrari
+416,ferrari 488
+417,ferrari f8
+418,gaz
+419,gaz gazele
+420,geely
+421,geely emgrand
+422,haima
+423,haima 2
+424,haima freema
+425,haima m3
+426,haima s5
+427,haima v70
+428,hino
+429,hino 300 series
+430,hino 500 series
+431,hino 700 series
+432,hummer
+433,hummer h2
+434,infiniti
+435,infiniti g37
+436,infiniti qx
+437,jaguar
+438,jaguar xf
+439,jaguar xj series
+440,jaguar f pace
+441,jaguar e type
+442,jaguar e pace
+443,jaguar f type
+444,jaguar xe
+445,jeep
+446,jeep a2
+447,jeep cj
+448,jeep compass
+449,jeep gladiator
+450,jeep grand cherokee
+451,jeep wrangler
+452,jeep khac
+453,jrd
+454,jrd daily
+455,jrd mega
+456,jrd travel
+457,jrd khac
+458,lada
+459,lada niva
+460,lada 2107
+461,lamborghini
+462,lamborghini aventador
+463,lamborghini huracan
+464,lamborghini urus
+465,lifan
+466,lifan 520
+467,lincoln
+468,lincoln aviator
+469,lincoln navigator
+470,lincoln town car
+471,luxgen
+472,luxgen m7
+473,luxgen s5
+474,luxgen u7
+475,maserati
+476,maserati ghibli
+477,maserati levante
+478,maserati quattroporte
+479,mekong
+480,mekong pronto
+481,mekong star
+482,mekong khac
+483,mg
+484,mg hs
+485,mg zs
+486,mini
+487,mini cooper
+488,mini one
+489,opel
+490,opel omega
+491,proton
+492,proton wira
+493,ram
+494,ram 1500
+495,rolls royce
+496,rolls royce cullinan
+497,rolls royce ghost
+498,rolls royce phantom
+499,rolls royce wraith
+500,samsung
+501,samsung qm5
+502,samsung sm3
+503,samsung khac
+504,smart
+505,smart forfour
+506,smart fortwo
+507,ssangyong
+508,ssangyong musso
+509,ssangyong korando
+510,ssangyong tivoli
+511,ssangyong korando sport
+512,ssangyong kyron
+513,ssangyong rexton
+514,ssangyong stavic
+515,subaru
+516,subaru forester
+517,subaru outback
+518,subaru xv
+519,subaru legacy
+520,subaru tribeca
+521,subaru tutto
+522,subaru wrx
+523,sym
+524,sym v5
+525,tesla
+526,tesla 3
+527,thaco
+528,thaco auman
+529,thaco forland
+530,thaco foton
+531,thaco frontier
+532,thaco mobihome
+533,thaco ollin
+534,thaco towner
+535,thaco khac
+536,tobe
+537,tobe mcar
+538,uaz
+539,uaz hunter
+540,uaz simbir
+541,uaz khac
+542,vinaxuki
+543,vinaxuki jinbei
+544,vinaxuki 990t
+545,vinaxuki 1490t
+546,vinaxuki 1240t
+547,vinaxuki 3000ba
+548,vinaxuki khac
+549,volvo
+550,volvo xc90
+551,volvo xc60
+552,volvo s90
+553,volvo v90
+554,volvo xc40
+555,zotye
+556,zotye t600
+557,zotye z8
+558,hang khac
