@@ -51,9 +51,5 @@ python 3_load.ipynb
 - Xem các dashboard phân tích dữ liệu.
 
 
-
-
-![Dashboard 2](path/to/image2.png)
-
 ## 📞 Liên hệ
 Nếu có thắc mắc, hãy liên hệ với mình qua [tanphatcoder@Gmail.com](mailto:tanphatcoder@Gmail.com).
